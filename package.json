@@ -1,0 +1,10 @@
+{
+  "name": "jpegcompress",
+  "version": "0.0.1",
+  "description": "A JPEG deep dive project",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
